@@ -12,7 +12,7 @@
   <img align = "center" alt = "HTML" height = "50" width = "50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align = "center" alt = "CSS" height = "50" width = "50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align = "center" alt = "Js" height = "50" width = "50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align = "center" alt = "Dart" height = "50" width = "50" src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg">
+  <img align = "center" alt = "Dart" height = "50" width = "50" src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg">
   <img align = "center" alt = "FLutter" height = "50" width = "50" src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 </div>
 
