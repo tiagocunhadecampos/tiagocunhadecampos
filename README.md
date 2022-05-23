@@ -1,4 +1,4 @@
-### Ola, Eu sou Tiago, estudande de Analise e desenvolvimento de Sistemas 👋
+### Ola, Eu sou Tiago 👋
 
 <div align = "center">
   <a href="https://github.com/tiagocunhadecampos">
