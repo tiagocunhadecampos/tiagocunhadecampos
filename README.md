@@ -1,5 +1,5 @@
 ### Ola, Eu sou Tiago 👋
-# Desenvolvedor Mobile
+# Desenvolvedor Full Stack / Mobile
 
 <div align = "center">
   <a href="https://github.com/tiagocunhadecampos">
